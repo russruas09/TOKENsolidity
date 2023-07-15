@@ -99,3 +99,7 @@ Call the mint function to create new tokens and increase the total supply.
 Call the burn function to destroy existing tokens and decrease the total supply, ensuring the balance of the "sender" is sufficient before performing the burn.
 
 Always exercise caution while using smart contracts on the Ethereum network and make sure to thoroughly test and verify the contract's functionality before deploying it in a production environment.
+
+License
+
+The code in this contract is licensed under the MIT license. The SPDX-License-Identifier at the top of the code file indicates that the code is licensed under the MIT license.
